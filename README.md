@@ -17,7 +17,7 @@ if all the following packages are peer reviewed, free, and have correlates on wi
 ### PGP
 
 1.	basics in mac & win *
-1.	discussion: how to do pgp? (how to init these types of convos with people, where to put its information, how to dissemenate it)
+1.	discussion: how to do pgp? (how to init these types of convos with people, where to put its information, how to dissemenate it)  ALSO, important detour: we all know [the difference between the public key and the private key][pgp_oops], right?
 1.	the --homedir directive.  duh, use it!  (maybe only windows users and linux users can do this; mac users left out? can we hack this out real quick before we start?)
 1.	discussions about publicizing one's web-of-trust
 
@@ -38,3 +38,5 @@ if all the following packages are peer reviewed, free, and have correlates on wi
 
 1.	minilock *
 1.	aes protecting with gpg
+
+[pgp_oops]: https://twitter.com/runasand/status/573613717004247040
