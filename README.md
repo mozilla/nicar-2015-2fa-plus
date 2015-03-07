@@ -6,13 +6,13 @@ if all the following packages are peer reviewed, free, and have correlates on wi
 
 1.	how to hunt for checksums *
 1.	how to compare them *
+1.	how to get [OpenSSL](https://github.com/openssl/openssl)
 1.	cultivate your timeline on twitter for leads; learning whose advice to trust | [WIRED Gov/Secu Experts to follow](http://www.wired.com/2013/08/101signals-security/) | [Tripwire Secu Experts to follow](http://www.tripwire.com/state-of-security/security-data-protection/top-25-influencers-in-security-you-should-be-following/)
 
 ### 2FA
 
 1.	authenticator apps
 1.	services that use 2fa (mail clients, github, web hosts) | [List of 2fa websites](https://twofactorauth.org/) | [List of 2fa providers](https://twofactorauth.org/providers/)
-1.	how to enable on ssh *
 
 ### PGP
 
