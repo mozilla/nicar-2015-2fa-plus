@@ -6,7 +6,7 @@ if all the following packages are peer reviewed, free, and have correlates on wi
 
 1.	how to hunt for checksums *
 1.	how to compare them *
-1.	how to get [OpenSSL](https://github.com/openssl/openssl)
+1.	how to get [OpenSSL](https://github.com/openssl/openssl)  (NB: windows users will also need [Cygwin][cygwin])
 1.	cultivate your timeline on twitter for leads; learning whose advice to trust | [WIRED Gov/Secu Experts to follow](http://www.wired.com/2013/08/101signals-security/) | [Tripwire Secu Experts to follow](http://www.tripwire.com/state-of-security/security-data-protection/top-25-influencers-in-security-you-should-be-following/)
 
 ### 2FA
@@ -40,4 +40,4 @@ if all the following packages are peer reviewed, free, and have correlates on wi
 1.	[aes](http://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard) protecting with gpg
 
 [pgp_oops]: https://twitter.com/runasand/status/573613717004247040
-
+[cygwin]: http://cygwin.com/
