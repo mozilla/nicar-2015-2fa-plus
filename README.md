@@ -13,6 +13,7 @@ if all the following packages are peer reviewed, free, and have correlates on wi
 
 1.	authenticator apps
 1.	services that use 2fa (mail clients, github, web hosts) | [List of 2fa websites](https://twofactorauth.org/) | [List of 2fa providers](https://twofactorauth.org/providers/)
+1.	[FreeOTP](https://fedorahosted.org/freeotp/) - free 2fa app for one-time password users
 
 ### PGP
 
